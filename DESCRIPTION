@@ -15,7 +15,7 @@ Description: DMCFB is a pipeline for identifying differentially methylated
     the missing values are imputed using spatial correlation between positions
     and samples. A Bayesian approach is adopted for estimation and inference in
     the proposed method.
-Depends: R (>= 4.0.0),
+Depends: R (>= 4.3.0),
     SummarizedExperiment,
     methods,
     S4Vectors,
@@ -46,4 +46,4 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 BugReports: https://github.com/shokoohi/DMCFB/issues
-RoxygenNote: 7.3.0
+RoxygenNote: 7.3.1
